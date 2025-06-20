@@ -1,6 +1,7 @@
 ---
 title: {{ title }}
 date: {{ date }}
+updated: 
 categories:
 tags:
 password:                                                       #加密

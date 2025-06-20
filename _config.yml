@@ -80,7 +80,7 @@ meta_generator: true
 date_format: YYYY.MM.DD
 time_format: HH:mm
 ## updated_option supports 'mtime', 'date', 'empty' ## updated_option 支持 'mtime'、'date'、'empty'
-updated_option: 'empty'
+updated_option: 'date'
 
 # Pagination # 分页
 ## Set per_page to 0 to disable pagination ## 将 per_page 设为 0 可禁用分页
