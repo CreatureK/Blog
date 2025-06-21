@@ -18,7 +18,7 @@ menu:
 # 此处的配置仅影响页内展示，不影响网页meta
 blog_info:
   title: KBLOG
-  subtitle: recording
+  subtitle: 博客
   description: 我们不生产代码，我们只是github的搬运工。
 
 # 文章相关显示值
@@ -101,6 +101,7 @@ about:
 
     - 技术分享 | 项目经验 | 工具使用 | 生活随笔  
 
+
     **🔍 技术定位**  
 
     - 用代码改变世界（目前先改变了电脑壁纸）
@@ -126,6 +127,7 @@ about:
 
     - 南京理工大学 2023级 计算机科学与工程学院 孔祥和  
 
+
     **💼 任职 / 🏆 荣誉**
 
     - 2023.9-2024.5 校团委红会学生分会办公室优秀干事
@@ -144,7 +146,7 @@ about:
 
     '
   about_contact: 联系方式
-  about_links: 其他链接
+  about_links: 友情链接
   reward:
     title: 赞赏
     # 关于赞赏支持的说明，支持Markdown语法
