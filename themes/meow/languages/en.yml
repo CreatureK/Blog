@@ -17,18 +17,18 @@ menu:
 # site information
 # only affects on page display and does not affect webpage meta
 blog_info:
-  title: MEOW
-  subtitle: A Cute and Bright Hexo Theme
-  description: 'Preview of Meow: a cute and bright theme for Hexo blog. It optimizes the adaptability of original novel and fanfiction.'
+  title: KBLOG
+  subtitle: recording
+  description: We don't produce code, we are just porters of GitHub.
 
 # posts related item
 article:
   read_more: Read More
   word_count: About %s words
-  copyright: Copyright
-  copyright_desc: BY-NC-ND 4.0
+  copyright: ''
+  copyright_desc: Kongxh
   # description of reward for posts, Markdown available
-  reward: If you like this article, welcome to pay me a coffee, thanks&#128151;
+  reward: If you like this article, welcome to reward the author, thanks&#128151;
   previous_post: Previous Article
   next_post: Next Article
   top: '&#x1F4CC;**Pinned**' # Markdown available
@@ -90,20 +90,59 @@ about:
   about_blog:
     title: About This Site
     # keywords of this blog, split with ','
-    keywords: Hexo,Theme,Blog,Tutorial
+    keywords: blog,Github,Learning experience,Computer Science
     # introduction for this blog，Markdown available
-    introduction: '- 「Meow」is a theme for Hexo blog, the source code was already public on [Github](https://github.com/chanwj/hexo-theme-meow).
-    
-    - This theme has cute style and bright colors. I hope anyone who see it can have a good mood.
-    
-    - In addition to supporting the basic purpose of blogs, this theme also optimizes the creation of literary works, allowing every author to use scaffold to publish original novel and fanfiction easily.
-    
-    - This website provides preview for this theme. It also provides guides for theme installation and configuration. I hope it will be helpful to you.'
+    introduction: '
+    **💻 Personal Introduction**  
+
+    - Nanjing University of Science and Technology, Class of 2023, School of Computer Science and Engineering, Kong Xianghe  
+
+    **💼 Positions / 🏆 Honors**
+
+    - 2023.9-2024.5 Excellent Staff of the Red Cross Student Branch Office of the University Student Union
+
+    - 2024.6-2025.5 Deputy Director of the Red Cross Student Branch Office of the University Student Union
+
+    - 2024 Outstanding Leader of "Loving Summer" Volunteer Service by the University Student Union
+
+    - 2023-2024 Active Labor Education Participant
+
+    - National College Student Innovation Training Program 2024 (Participated as a freshman)
+
+    - "Understanding Contemporary China" National College Students Foreign Language Ability Contest Bronze Award (Second Prize), 2024
+
+    - "Innovation Cup" Extracurricular Academic and Technological Works Competition of Nanjing University of Science and Technology 2025, Second Prize at School of Computer Science and Engineering
+
+    - "Innovation Cup" Extracurricular Academic and Technological Works Competition of Nanjing University of Science and Technology 2025, Second Prize at University Level
+
+    **🛠️ Content Direction**  
+
+    - Project Development Experience (Including Pitfall Guides 🚫)  
+
+    - Practical Tools Reviews (With Survival Manual 📦)  
+
+    - Technology Sharing | Project Experience | Tool Usage | Life Essays  
+
+    **🔍 Technical Position**  
+
+    - Changing the world with code (currently just changed my computer wallpaper)
+
+    - Good at transforming `TODO` marks into life philosophy (always having an unfinished to-do list)
+
+    - I am purely a lazy person, so the update frequency of this blog is low, but I will continue to update. Welcome to raise issues and PRs.
+
+    '
     # Additional notes, Markdown available
-    supplement: '&#127775;<u>It cost a lot of time and efforts for me to make this work. If you need to use this theme, **please keep the copyright information of this theme in the footer**, show respect to the author and creation, which can also help more people in need to know this theme. Thank you very much!</u>'
+    supplement: '
+
+    <u>🛠️ Development Habits: Deeply customized `Cursor` | `Git` branch fanatic </u><br>
+    <u>✨ Special Skills: `Ctrl+C/V` muscle memory | `TODO` marking artist </u>
+
+    '
+
   about_author:
     title: About The Author
-    description: A ginger cat focuses on writing and coding.
+    description: A thousand lines of code, where does the bug hide? Even after going online, what does it matter? Changes in the morning, heartbreak in the evening.
   about_contact: Contact Me
   about_links: Links
   reward:
