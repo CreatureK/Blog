@@ -1,4 +1,20 @@
 .about-container
+  .about-author
+    h1
+      i.fa-solid.fa-paw
+      | #{ __('about.about_author.title') }
+
+    .about-author-nav
+      img#author-img(src= url_for(theme.author_pic))
+
+      .about-author-info
+        .author-name= config.author
+
+        .author-desc= __('about.about_author.description')
+        
+        .about-author-intro
+          | !{ markdown(__('about.about_author.introduction')) }
+
   .about-blog
     h1
       i.fa-solid.fa-paw
@@ -15,19 +31,6 @@
 
     .about-blog-supplement
       | !{ markdown(__('about.about_blog.supplement')) }
-
-  .about-author
-    h1
-      i.fa-solid.fa-paw
-      | #{ __('about.about_author.title') }
-
-    .about-author-nav
-      img#author-img(src= url_for(theme.author_pic))
-
-      .about-author-info
-        .author-name= config.author
-
-        .author-desc= __('about.about_author.description')
 
   .about-contact
     h1

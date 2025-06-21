@@ -6,6 +6,8 @@ categories:
 - 开发学习
 tags:
 - blog
+summary: 第一条博客                                       # stay blank if you don't want to show summary. Markdown available. [如果不想显示摘要请留空。支持Markdown格式。]
+
 ---
 # 这是我的第一条博客
 #### QAQ
